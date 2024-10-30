@@ -1,4 +1,4 @@
-# mirror_spotify
+# Mirroring Spotify UI Using Flutter
 
 This project is made for study purposes. The UI design concept is based on the Spotify Android application, which can be downloaded from the Play Store.
 
